@@ -1,9 +1,9 @@
 # Bem-vindo ao Meu Perfil do GitHub!
 
-## Sobre Mim
+## Sobre Mim 🙎‍♂️
 Olá! Sou Matheus Pestana, um estudante de Desenvolvimento de Sistemas. Estou interessado em aprimorar meus conhecimentos e experiências na área da tecnologia. Este é meu perfil no GitHub, onde compartilho projetos e colaboro com a comunidade de desenvolvedores.
 
-## Tópicos de estudo e interesse
+## Tópicos de estudo e interesse 📝
 
 - HTML e CSS
 - JavaScript
@@ -14,13 +14,13 @@ Olá! Sou Matheus Pestana, um estudante de Desenvolvimento de Sistemas. Estou in
 - Edição de imagem e vídeo
 - Jogos digitais
 
-## Habilidades e Tecnologias
+## Habilidades e Tecnologias 💻
 - Linguagens de Programação: JavaScript, Python, PHP, SQL
 - Frameworks: React Native, Bootstrap
 - Ferramentas: VS Code, XAMPP, phpMyAdmin
 - Outras habilidades: Trabalho em equipe, comunicação limpa e eficaz, aprendizado contínuo, ética profissional, empatia e inteligência emocional
 
-## Contato
+## Contato 📫
 - Email: matheus90pestana@gmail.com
 - LinkedIn: https://www.linkedin.com/in/matheus-arcangelo/
 
