@@ -21,7 +21,9 @@ Olá! Sou Matheus Pestana, um estudante de Desenvolvimento de Sistemas. Estou in
 - Outras habilidades: Trabalho em equipe, comunicação limpa e eficaz, aprendizado contínuo, ética profissional, empatia e inteligência emocional
 
 ## Contato 📫
-- Email: matheus90pestana@gmail.com
-- LinkedIn: https://www.linkedin.com/in/matheus-arcangelo/
+<div>
+<a href = "mailto:matheus90pestana@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/matheus-arcangelo/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para colaborações ou apenas para dizer olá!
