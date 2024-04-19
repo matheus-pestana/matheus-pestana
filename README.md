@@ -5,12 +5,13 @@ Olá! Sou Matheus Pestana, um estudante de Desenvolvimento de Sistemas. Estou in
 
 ## Tópicos de estudo e interesse 📝
 
-- HTML e CSS
-- JavaScript
-- Python
-- PHP
-- SQL
-- React Native
+- HTML <i class="devicon-html5-plain-wordmark colored"></i>
+- CSS <i class="devicon-css3-plain-wordmark colored"></i>
+- JavaScript <i class="devicon-javascript-plain colored"></i>
+- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+- PHP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+- SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+- React Native <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 - Edição de imagem e vídeo
 - Jogos digitais
 
