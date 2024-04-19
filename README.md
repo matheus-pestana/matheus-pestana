@@ -36,4 +36,8 @@ Olá! Sou Matheus Pestana, um estudante de Desenvolvimento de Sistemas. Estou in
 <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/matheus-arcangelo/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+# Estatísticas GitHub 📊
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-pestana)](https://github.com/anuraghazra/github-readme-stats)
+
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para colaborações ou apenas para dizer olá!
