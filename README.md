@@ -1,7 +1,7 @@
 # Bem-vindo ao Meu Perfil do GitHub!
 
 ## Sobre Mim 🙎‍♂️
-Olá! Sou Matheus Pestana, um estudante de Desenvolvimento de Sistemas. Estou interessado em aprimorar meus conhecimentos e experiências na área da tecnologia. Este é meu perfil no GitHub, onde compartilho projetos e colaboro com a comunidade de desenvolvedores.
+Olá! Sou Matheus Pestana, um estudante de Desenvolvimento de Sistemas. Estou interessado em aprimorar meus conhecimentos e experiências na área da tecnologia. Aqui é onde compartilho projetos e colaboro com a comunidade de desenvolvedores.
 
 ## Tópicos de estudo e interesse 📝
 
