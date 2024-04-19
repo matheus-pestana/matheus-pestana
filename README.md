@@ -21,6 +21,8 @@ Olá! Sou Matheus Pestana, um estudante de Desenvolvimento de Sistemas. Estou in
 
 - Jogos digitais
 
+- eSports
+
 ## Habilidades e Tecnologias 💻
 - Linguagens de Programação: JavaScript, Python, PHP, SQL
 - Frameworks: React Native, Bootstrap
