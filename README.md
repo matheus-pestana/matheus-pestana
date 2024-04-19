@@ -34,7 +34,7 @@ Olá! Sou Matheus Pestana, um estudante de Desenvolvimento de Sistemas. Estou in
 <div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-pestana&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-pestana&show_icons=true&hide=hack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-pestana&show_icons=true&hide=hack&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
