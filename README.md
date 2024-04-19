@@ -29,15 +29,15 @@ Olá! Sou Matheus Pestana, um estudante de Desenvolvimento de Sistemas. Estou in
 - Ferramentas: VS Code, XAMPP, phpMyAdmin
 - Outras habilidades: Trabalho em equipe, comunicação limpa e eficaz, aprendizado contínuo, ética profissional, empatia e inteligência emocional
 
+# Estatísticas GitHub 📊
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-pestana)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contato 📫
 <div>
 <a href = "mailto:matheus90pestana@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/d4sh_fps?igsh=Yjd0Y3E5bGp3b3Zo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_k"></a>
 <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/matheus-arcangelo/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-# Estatísticas GitHub 📊
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-pestana)](https://github.com/anuraghazra/github-readme-stats)
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para colaborações ou apenas para dizer olá!
