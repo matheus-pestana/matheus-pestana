@@ -5,7 +5,7 @@ Olá! Sou Matheus Pestana, um estudante de Desenvolvimento de Sistemas. Estou in
 
 ## Tópicos de estudo e interesse 📝
 
-<div style="text-align: center">
+<div style="text-align: center; display: flex; flex-direction: column; justify-content: center">
 
 - HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
   
