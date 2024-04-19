@@ -31,7 +31,7 @@ Olá! Sou Matheus Pestana, um estudante de Desenvolvimento de Sistemas. Estou in
 
 # Estatísticas GitHub 📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-pestana)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-pestana&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato 📫
 <div>
